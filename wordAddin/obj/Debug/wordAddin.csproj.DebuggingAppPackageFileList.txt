@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\wordAddinManifest.xml
+E:\wordAddin\wordAddin\bin\Debug\wordAddin.debugapp

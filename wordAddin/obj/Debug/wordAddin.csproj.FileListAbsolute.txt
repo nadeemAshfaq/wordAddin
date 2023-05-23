@@ -1,0 +1,2 @@
+E:\wordAddin\wordAddin\obj\Debug\wordAddin.csproj.AssemblyReference.cache
+E:\wordAddin\wordAddin\obj\Debug\wordAddin.csproj.CoreCompileInputs.cache

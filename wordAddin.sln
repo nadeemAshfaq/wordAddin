@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wordAddin", "wordAddin\wordAddin.csproj", "{BD77CE4A-EB01-4CC2-AC4F-EEF4D2736965}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wordAddinWeb", "wordAddinWeb\wordAddinWeb.csproj", "{EAABB9F6-6B94-46CB-9751-4A649C2F997D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD77CE4A-EB01-4CC2-AC4F-EEF4D2736965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD77CE4A-EB01-4CC2-AC4F-EEF4D2736965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD77CE4A-EB01-4CC2-AC4F-EEF4D2736965}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BD77CE4A-EB01-4CC2-AC4F-EEF4D2736965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD77CE4A-EB01-4CC2-AC4F-EEF4D2736965}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD77CE4A-EB01-4CC2-AC4F-EEF4D2736965}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{EAABB9F6-6B94-46CB-9751-4A649C2F997D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAABB9F6-6B94-46CB-9751-4A649C2F997D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAABB9F6-6B94-46CB-9751-4A649C2F997D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAABB9F6-6B94-46CB-9751-4A649C2F997D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12FA6971-C83D-492D-BA44-3E5F66799BD7}
+	EndGlobalSection
+EndGlobal
